@@ -1,6 +1,6 @@
 ## Hello👋 I'm Akshay Kumawat  
 
-I am a fullstack developer from India 🇮🇳 I am working as a Enginerring Lead at [Ghost.org](https://www.persistent.com/)
+I am a fullstack developer from India 🇮🇳 I am working as a Enginerring Lead at [Persistent.com](https://www.persistent.com/)
 
 ### Currently I am working with ...
 
